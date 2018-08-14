@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/I338008/Documents/BITS notes/2nd practicalphase/MethodIdentifier Jars/diffparser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I338008/Documents/BITS notes/2nd practicalphase/MethodIdentifier Jars/org.eclipse.jgit-5.0.1.201806211838-r.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I338008/Documents/BITS notes/2nd practicalphase/MethodIdentifier Jars/org.mozilla.javascript-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I338008/Documents/BITS notes/2nd practicalphase/MethodIdentifier Jars/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I338008/Documents/BITS notes/2nd practicalphase/MethodIdentifier Jars/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I338008/Documents/BITS notes/2nd practicalphase/commons-collections4-4.2/commons-collections4-4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
